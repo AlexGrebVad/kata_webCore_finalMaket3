@@ -1,0 +1,17 @@
+// Общий импорт
+@import './base-style/css_reset.scss';
+@import './base-style/fonts.scss';
+
+// Импорт блоков
+
+@import './blocks/mainTitle.scss';
+@import './blocks/paragraph-block.scss';
+@import './blocks/brend-slider.scss';
+@import './blocks/header.scss';
+@import './blocks/tecnikal-slider.scss';
+@import './blocks/price-slider.scss';
+@import './blocks/oferta-area.scss';
+@import './blocks/footer.scss';
+@import './blocks/burger-menu.scss';
+@import './blocks/feed-back-form.scss';
+@import './blocks/call-order-form.scss';
