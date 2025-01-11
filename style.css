@@ -1370,6 +1370,7 @@ main {
     margin-right: 33px; } }
 
 .burger-menu {
+  outline: none;
   display: flex;
   flex-direction: column;
   box-shadow: 16px 0px 52px 0px rgba(14, 24, 80, 0.2), -2px 0px 4px 0px rgba(69, 79, 126, 0.02);
@@ -1507,6 +1508,7 @@ main {
       margin-top: 241px; } }
 
 .feed-back {
+  outline: none;
   background-color: #fff;
   box-shadow: 16px 0px 52px 0px rgba(14, 24, 80, 0.2), -2px 0px 4px 0px rgba(69, 79, 126, 0.02); }
   .feed-back .feed-back__img {
@@ -1600,6 +1602,7 @@ main {
     height: 40px; } }
 
 .call-order {
+  outline: none;
   box-shadow: 16px 0px 52px 0px rgba(14, 24, 80, 0.2), -2px 0px 4px 0px rgba(69, 79, 126, 0.02);
   background-color: #fff; }
   .call-order .call-order__img {
